@@ -1,0 +1,12 @@
+.parent-block{
+    display: flex;
+    width: 0%;
+}
+.child-block{
+    flex: 1;
+    padding-left: 15px;
+}
+.image{
+    width: 400px;
+    height: 400px;
+}
